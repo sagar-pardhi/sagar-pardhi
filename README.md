@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently working on Reddit Clone<br>🌱 I’m currently learning Chakra UI, Tailwind CSS, Fastify<br>💬 Ask me about React, NextJS, Redux, NodeJS, Javascript<br>📫 How to reach me sagarpardhi.dev@gmail.com<br>
+A Passoniate Web Developer with experience in Frontend Development using React, Redux and NextJs and in Backend Development using Dajngo Rest Framework, FastAPI and NodeJs.
+
+🌱 I’m currently learning Chakra UI, Tailwind CSS, Fastify<br>💬 Ask me about React, NextJS, Redux, NodeJS, Javascript<br>📫 How to reach me sagarpardhi.dev@gmail.com<br>
 
 
 # 💻 Tech Stack:
